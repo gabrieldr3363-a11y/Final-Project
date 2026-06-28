@@ -6,7 +6,7 @@ This model classifies 7 types of vehicles from cars to planes. This can be used 
 I chose this project because as AI cars become a reality, they should know basic common sense of humans. While they might have better navigation and accurate GPS, without common sense AI cars will fail horribly and it would be better if humans drove the cars. Ai cars should be able to identify the main vehicles and know how to travel so that the car doesn't crash into a bike, or run straight into a train. These are extreme examples but show a real danger of AI cars. 
 
 ### The Dataset
-My dataset included 7 categories of bikes, cars, motorcycles, rickshaws, ships, trains, and planes. My training had around 700 images, my val had around 50 images, and my test had around 50 images. In total the dataset was made of around 5600 images. 
+My dataset included 7 categories of bikes, cars, motorcycles, rickshaws, ships, trains, and planes. My training had around 700 images for each category, my val had around 50 images, and my test had around 50 images. In total the dataset was made of around 5600 images. 
 bikes: normal bicycles, electric bikes, little kid bikes
 cars: old cars, new cars, luxury cars, pick up trucks
 motorcycles: chopper motorcycles, sport motorcycles
